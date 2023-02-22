@@ -1,6 +1,8 @@
+#Form
 Este é um projeto de um site de formulário que permite que os usuários se cadastrem preenchendo campos obrigatórios. O site possui campos para nome, e-mail, ano de nascimento, cidade de prova, período da prova, cursos com maior interesse e senha para recuperação.
 
-Funcionalidades
+
+#Funcionalidades
 Página de Cadastro: a página inicial do site é a página de cadastro, onde o usuário pode inserir as informações solicitadas em cada campo. Todos os campos são obrigatórios e possuem validação específica para garantir que as informações sejam inseridas corretamente.
 
 Validação de Campos: cada campo tem sua própria validação, garantindo que as informações sejam inseridas no formato correto. Por exemplo, o campo de e-mail é validado para garantir que um endereço de e-mail válido seja inserido.
