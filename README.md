@@ -1,10 +1,10 @@
-#Form
+# Form
 
 Este é um projeto de um site de formulário que permite que os usuários se cadastrem preenchendo campos obrigatórios. O site possui campos para nome, e-mail, ano de nascimento, cidade de prova, período da prova, cursos com maior interesse e senha para recuperação.
 
 <img src ="https://github.com/LucasW97/Form/blob/main/fotos/1.png">
 
-#Funcionalidades
+## Funcionalidades
 Página de Cadastro: a página inicial do site é a página de cadastro, onde o usuário pode inserir as informações solicitadas em cada campo. Todos os campos são obrigatórios e possuem validação específica para garantir que as informações sejam inseridas corretamente.
 
 Validação de Campos: cada campo tem sua própria validação, garantindo que as informações sejam inseridas no formato correto. Por exemplo, o campo de e-mail é validado para garantir que um endereço de e-mail válido seja inserido.
@@ -13,7 +13,7 @@ Botão de Cadastro: o botão "Salvar" só cadastra se todos os campos forem pree
 
 Senha para Recuperação: o campo de senha para recuperação permite que o usuário defina uma senha para recuperar sua conta no futuro, caso seja necessário.
 
-Campos do Formulário
+## Campos do Formulário
 Nome: campo de texto para inserir o nome completo do usuário.
 
 E-mail: campo de texto para inserir o endereço de e-mail do usuário. Validado para garantir que um endereço de e-mail válido seja inserido.
@@ -28,7 +28,7 @@ Cursos com Maior Interesse: campo de seleção múltipla para escolher os cursos
 
 Senha para Recuperação: campo de texto para definir uma senha para recuperar a conta no futuro, caso seja necessário. Validado para garantir que a senha tenha pelo menos 8 caracteres.
 
-#Validações dos Campos
+## Validações dos Campos
 
 Nome: campo obrigatório, com no mínimo 3 caracteres.
 
